@@ -1,0 +1,88 @@
+Localization File(s)
+
+Template:
+English:
+    Name: Portalstone
+    Description:[
+    "An unbound Portalstone.",
+    " ",
+    "Throw this into a nether portal to",
+    "bind that portal to the Portalstone.",
+    " ",
+    "The Portalstone can then be used to",
+    "create portal path ways between portals."
+    ]
+    Bound Description:[
+    "A bound Portalstone.",
+    "Bound Portals: ",
+    "Throw this into an unbound portal",
+    "to continue binding portals to",
+    "this Portalstone.",
+    " ",
+    "Throwing this into any previously",
+    "bound portal will fuse the portals",
+    "together in a portal path way.",
+    "Any entity may traverse the portal ways."
+    ]
+French:
+    Name: Pierreportail
+    Description:[
+    "Une Pierreportail non lié",
+    " ",
+    "Lance ceci dans un portail non lié",
+    "pour lier le portail avec la Pierreportail.",
+    " ",
+    "La Pierreportail peut ensuite être utilisée pour",
+    "créer des chemins de portail entre les portails."
+    ]
+    Bound Description:[
+    "Portails lié: ",
+    " ",
+    "Lance ceci dans un portail non lié",
+    "pour continuer a lier autre portails",
+    "à cette Pierreportail.",
+    " ",
+    "Quand ceci est lancer dans n'importe",
+    "quel portail précédemment lié, les",
+    "portails seront fusionnés ensemble",
+    "formant un chemin portail.",
+    "Toute entités peut traverser les",
+    "chemins portail."
+    ]
+German:
+    Name: Portalstein
+    Description:[
+    "Ein ungebundener Portalstein.",
+    " ",
+    "Werfe ihn in ein Netherportal, um das",
+    "Portal an den Portalstein zu binden.",
+    " ",
+    "Der Portalstein kann benutzt werden, um",
+    "eine Verknzwischen verschiedenen",
+    "Portalen zu erstellen."
+    ]
+
+Swedish Local:
+Swedish:
+    Name: Portalsten
+    Description:[
+    "En obunden portalsten.",
+    " ",
+    "Kasta denna i en netherportal för",
+    "att binda den till en portalsten.",
+    " ",
+    "Portalstenen kan användas för att",
+    "skapa portalförbindelser mellan portaler."
+    ]
+    Bound Description:[
+    "En bunden portalsten.",
+    "Bundna portaler: ",
+    "Kasta denna i en obunden portal",
+    "för att fortsätta binda portaler",
+    "till den här portalstenen.",
+    " ",
+    "Genom att kasta denna i en redan",
+    "bunden portal kopplas portalerna",
+    "samman i en portalförbindelse.",
+    "Alla entiteter kan färdas genom portalförbindelser."
+    ]
