@@ -1,0 +1,35 @@
+name: PortalStones
+main: portalStones.Main
+version: 2.1
+api-version: 1.16
+author: brood_harvester@hotmail.com
+softdepend: [Multiverse-Core]
+commands:
+   portalstones:
+      description: "PortalStones created by: ForbiddenSoul"
+      usage: /portalstones
+   portalstones reload:
+      description: "Reloads the PortalStones plugin."
+      usage: /portalstones reload
+      permission: portalstones
+      permission-message: You do not have permission to use portalstones reload
+   portalstones on:
+      description: "Turns on the PortalStones plugin."
+      usage: /portalstones on
+      permission: portalstones
+      permission-message: You do not have permission to use portalstones on
+   portalstones off:
+      description: "Turns off the PortalStones plugin."
+      usage: /portalstones off
+      permission: portalstones
+      permission-message: You do not have permission to use portalstones off
+   portalstones recipe:
+      description: "Opens a GUI to change portalstone crafting recipe."
+      usage: /portalstones recipe
+      permission: portalstones
+      permission-message: You do not have permission to use portalstones recipe
+      
+permissions:
+  portalstones:
+   description: "Allows usage of PortalStones commands."
+   default: op
